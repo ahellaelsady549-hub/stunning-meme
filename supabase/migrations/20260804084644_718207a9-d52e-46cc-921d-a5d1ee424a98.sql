@@ -1,1 +1,0 @@
-REVOKE ALL ON FUNCTION public.consume_promo_code() FROM PUBLIC, anon, authenticated;
